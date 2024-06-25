@@ -1,4 +1,4 @@
-## Olá sou o VInicius Berardi e esse é meu perfil no linkedin 👋
+## Olá sou o Vinicius Berardi e esse é meu perfil no GitHub 👋
 
 <picture>
   <source
